@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NocsBot">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="NocsBot.jar">
+      <element id="module-output" name="NocsBot" />
+    </root>
+  </artifact>
+</component>
